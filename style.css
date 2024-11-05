@@ -5,10 +5,11 @@ header{
 }
 
 .btn-baixar{
-    background-color: red;
+    background-color: black;
     padding: 4px;
     border: none;
     border-radius: 6px;
+    color: white;
 }
 
 .btn-assinar{
@@ -18,3 +19,11 @@ header{
     border-radius: 6px;
     color: white;
 }
+
+.btn-delete{
+    background-color: red;
+    padding: 4px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+} 
