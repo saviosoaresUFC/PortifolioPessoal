@@ -1,6 +1,20 @@
-button{
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-baixar{
     background-color: red;
     padding: 4px;
     border: none;
     border-radius: 6px;
+}
+
+.btn-assinar{
+    background-color: green;
+    padding: 4px;
+    border: none;
+    border-radius: 6px;
+    color: white;
 }
